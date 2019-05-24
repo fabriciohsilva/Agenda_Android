@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Agenda de Contatos</string>
+    <string name="contact">Contato</string>
+    <string name="contact_list">Agenda</string>
+    <string name="e_mail">E-mail</string>
+    <string name="edit_contact">Editar Contato</string>
+    <string name="name">Nome</string>
+    <string name="new_contact">Novo Contato</string>
+    <string name="phone">Telephone</string>
+    <string name="save">salvar</string>
+    <string name="save_contact">Salvar Contato</string>
+    <string name="remove">Remover</string>
+</resources>
